@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "850204841435",
+    "firebase_url": "https://simple-app-firestore.firebaseio.com",
+    "project_id": "simple-app-firestore",
+    "storage_bucket": "simple-app-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850204841435:android:a217fc548382c3489a43fe",
+        "android_client_info": {
+          "package_name": "com.stimednp.crudfirebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850204841435-b66rajnkqri03v8fr1vomt0ooaojfjtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stimednp.crudfirebasefirestore",
+            "certificate_hash": "1160d9a9a73f5394f8d8aff16837be996bd504ba"
+          }
+        },
+        {
+          "client_id": "850204841435-tqhfod9f47lkfmbno2k93o4qvn7v00ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOO5gp5Dyx2W_I89mc-juN4DohZJIXZrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850204841435-tqhfod9f47lkfmbno2k93o4qvn7v00ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

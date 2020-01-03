@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRUD Firestore</string>
+    <string name="nama_anda">Nama anda</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="alamat_anda">Alamat anda</string>
+    <string name="str_umur">Umur anda</string>
+</resources>

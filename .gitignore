@@ -1,6 +1,5 @@
-app/src/main/java/com/stimednp/crudfirebasefirestore/base
-app/src/main/java/com/stimednp/crudfirebasefirestore/bind/AllUserAdapter.kt
-app/src/main/java/com/stimednp/crudfirebasefirestore/presenter
+app/src/main/java/com/stimednp/crudfirebasefirestore/TestActivity.kt
+app/src/main/res/layout/activity_test.xml
 *.iml
 .gradle
 /local.properties

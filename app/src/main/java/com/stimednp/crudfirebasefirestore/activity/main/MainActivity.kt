@@ -1,11 +1,7 @@
-package com.stimednp.crudfirebasefirestore.activity
+package com.stimednp.crudfirebasefirestore.activity.main
 
 import android.content.Intent
 import android.os.Bundle
-import android.view.LayoutInflater
-import android.view.ViewGroup
-import android.widget.Toast
-import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.firebase.ui.firestore.FirestoreRecyclerAdapter
@@ -13,6 +9,7 @@ import com.firebase.ui.firestore.FirestoreRecyclerOptions
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.Query
 import com.stimednp.crudfirebasefirestore.R
+import com.stimednp.crudfirebasefirestore.activity.addedit.AddEditActivity
 import com.stimednp.crudfirebasefirestore.bind.AllUserAdapter
 import com.stimednp.crudfirebasefirestore.model.Users
 import com.stimednp.crudfirebasefirestore.utils.Const.PATH_AGE

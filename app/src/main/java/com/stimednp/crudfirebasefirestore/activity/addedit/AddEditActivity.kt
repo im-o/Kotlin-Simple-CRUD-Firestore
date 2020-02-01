@@ -1,4 +1,4 @@
-package com.stimednp.crudfirebasefirestore.activity
+package com.stimednp.crudfirebasefirestore.activity.addedit
 
 import android.os.Bundle
 import android.text.Editable

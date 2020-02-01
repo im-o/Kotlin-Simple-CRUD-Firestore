@@ -44,4 +44,7 @@ dependencies {
 
     //material design
     implementation 'com.google.android.material:material:1.0.0'
+
+    //firebase realtime
+    implementation 'com.google.firebase:firebase-database:19.2.0'
 }

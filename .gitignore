@@ -1,3 +1,6 @@
+app/src/main/java/com/stimednp/crudfirebasefirestore/base
+app/src/main/java/com/stimednp/crudfirebasefirestore/bind/AllUserAdapter.kt
+app/src/main/java/com/stimednp/crudfirebasefirestore/presenter
 *.iml
 .gradle
 /local.properties
